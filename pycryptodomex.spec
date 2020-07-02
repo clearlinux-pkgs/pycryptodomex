@@ -9,7 +9,7 @@ URL      : https://files.pythonhosted.org/packages/f5/79/9d9206688385d1e7a5ff925
 Source0  : https://files.pythonhosted.org/packages/f5/79/9d9206688385d1e7a5ff925e7aab1d685636256e34a409037aa7adbbe611/pycryptodomex-3.9.8.tar.gz
 Summary  : Cryptographic library for Python
 Group    : Development/Tools
-License  : Apache-2.0 BANNED Python-2.0
+License  : Apache-2.0 Python-2.0
 Requires: pycryptodomex-license = %{version}-%{release}
 Requires: pycryptodomex-python = %{version}-%{release}
 Requires: pycryptodomex-python3 = %{version}-%{release}
