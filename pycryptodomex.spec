@@ -4,7 +4,7 @@
 #
 Name     : pycryptodomex
 Version  : 3.10.1
-Release  : 12
+Release  : 13
 URL      : https://files.pythonhosted.org/packages/82/e2/a0f9f5452a59bafaa3420585f22b58a8566c4717a88c139af2276bb5695d/pycryptodomex-3.10.1.tar.gz
 Source0  : https://files.pythonhosted.org/packages/82/e2/a0f9f5452a59bafaa3420585f22b58a8566c4717a88c139af2276bb5695d/pycryptodomex-3.10.1.tar.gz
 Summary  : Cryptographic library for Python
